@@ -1,3 +1,3 @@
-module time
+module ttime
 
 go 1.21.11
