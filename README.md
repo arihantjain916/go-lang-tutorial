@@ -4,3 +4,4 @@
 
 # Daily Report
 1. 21/07/2024 : Learn how to print a string, take user input, time and some data structure such as array, slices and pointers.
+2. 22/07/2024 : Learn how to use loops, if-else, switch, struct and functions.
