@@ -1,0 +1,17 @@
+{
+	"Print the starter code": {
+		"scope": "go",
+		"prefix": "code",
+		"body": [
+			"package main",
+			"",
+			"import \"fmt\"",
+			"",
+			"func main() {",
+			"",
+			"    fmt.Println(\"Welcome to $0\")",
+			"}",
+		],
+		"description": "Log output to console"
+	}
+}
